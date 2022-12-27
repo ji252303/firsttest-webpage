@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6391cf4b742fb0c11345f585"
+  },
+  "name": "as",
+  "email": "as@naver.com",
+  "password": "$2b$10$F0M1JAC2w4Ebta.OLHb2mucQilv1z3dNf8pO.q/EpF8O8.yjRJuC.",
+  "date": {
+    "$date": {
+      "$numberLong": "1670500171577"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63921325829ee2c8e0854f27"
+  },
+  "username": "asd",
+  "password": "$2a$10$6.S8W7tlvUaIyvmcHIMYWuNXlZ0U3fEMcF9JEYnb8AiLbbY0Q0SbS",
+  "name": "insu",
+  "email": "as@naver.com"
+}]
